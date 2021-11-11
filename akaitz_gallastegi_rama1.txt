@@ -2,4 +2,10 @@ Nueva linea en fichero
 Nueva linea en fichero
 Nueva linea en fichero
 Nueva linea en fichero
+<<<<<<< HEAD
 Añado nuevo linea desde master
+=======
+Añado nueva linea
+Añado nueva linea
+Añado nueva linea
+>>>>>>> akaitz_gallastegi_rama
